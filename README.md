@@ -32,3 +32,12 @@ If you use this dataset in your research or project, please cite it as:
 ✅ **Note:**  
 Only the code and models are shared in this repository.  
 The raw dataset is **not redistributed** here — please download it directly from the official UCI source.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community to improve this project.  
+Please refer to the [Contributing Guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute, including submitting issues, feature requests, and pull requests.
+
+Your participation and feedback are highly appreciated.
