@@ -21,7 +21,7 @@ This dataset supports research and development in seizure detection, classificat
 ### 📊 EEGs Measure Brain Activity
 
 <p align="center">
-  <img src="https://my.clevelandclinic.org/-/scassets/images/org/health/articles/9656-electroencephalogram-eeg" width="600">
+  <img src="https://my.clevelandclinic.org/-/scassets/images/org/health/articles/9656-electroencephalogram-eeg" width="350">
 </p>
 
 *Source: [Cleveland Clinic Article on Electroencephalogram (EEG)](https://my.clevelandclinic.org/health/diagnostics/9656-electroencephalogram-eeg)*
