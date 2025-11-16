@@ -2,3 +2,4 @@ dataset/
 papers/
 *.ipynb_checkpoints
 *.log
+BEED_Data.csv
